@@ -1,0 +1,13 @@
+/* Write your code here. */
+.button {
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+}
+.item-container {
+  opacity: 0.5;
+}
+
+.active-container {
+  opacity: initial;
+}
